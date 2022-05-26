@@ -1,0 +1,295 @@
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.exe
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.deps.json
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.json
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\ref\EducationalProc.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.pdb
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\staticwebassets\EducationalProc.StaticWebAssets.Manifest.cache
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\staticwebassets\EducationalProc.StaticWebAssets.xml
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\scopedcss\bundle\EducationalProc.styles.css
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.RazorTargetAssemblyInfo.cache
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CopyComplete
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\ref\EducationalProc.dll
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.pdb
+C:\Users\Михаил\source\repos\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.genruntimeconfig.cache
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.json
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.exe
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.deps.json
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.json
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.dev.json
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\ref\EducationalProc.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.pdb
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.AssemblyReference.cache
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfoInputs.cache
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfo.cs
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CoreCompileInputs.cache
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\staticwebassets\EducationalProc.StaticWebAssets.Manifest.cache
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\staticwebassets\EducationalProc.StaticWebAssets.xml
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\scopedcss\bundle\EducationalProc.styles.css
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.RazorTargetAssemblyInfo.cache
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CopyComplete
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\ref\EducationalProc.dll
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.pdb
+C:\Users\NO REST\Desktop\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.genruntimeconfig.cache
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.json
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.exe
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.deps.json
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.json
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.dev.json
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\ref\EducationalProc.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.pdb
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.AssemblyReference.cache
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfoInputs.cache
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfo.cs
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CoreCompileInputs.cache
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\staticwebassets\EducationalProc.StaticWebAssets.Manifest.cache
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\staticwebassets\EducationalProc.StaticWebAssets.xml
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\scopedcss\bundle\EducationalProc.styles.css
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.RazorTargetAssemblyInfo.cache
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CopyComplete
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\ref\EducationalProc.dll
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.pdb
+C:\Users\NO REST\Desktop\4 курс, 8 семестр\Курсовая по ТРПО (Волкова)\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.genruntimeconfig.cache
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.json
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.StaticWebAssets.xml
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.exe
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.deps.json
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.json
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.dev.json
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.pdb
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.AssemblyReference.cache
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfoInputs.cache
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfo.cs
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CoreCompileInputs.cache
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\scopedcss\bundle\EducationalProc.styles.css
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\staticwebassets\EducationalProc.StaticWebAssets.Manifest.cache
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.RazorTargetAssemblyInfo.cache
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CopyComplete
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\refint\EducationalProc.dll
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.pdb
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.genruntimeconfig.cache
+C:\Users\assas\Desktop\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\ref\EducationalProc.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\appsettings.json
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.StaticWebAssets.xml
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.exe
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.deps.json
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.json
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.runtimeconfig.dev.json
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\EducationalProc.pdb
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfoInputs.cache
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.AssemblyInfo.cs
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\scopedcss\bundle\EducationalProc.styles.css
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\staticwebassets\EducationalProc.StaticWebAssets.Manifest.cache
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.RazorTargetAssemblyInfo.cache
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.csproj.CopyComplete
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\refint\EducationalProc.dll
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.pdb
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\EducationalProc.genruntimeconfig.cache
+C:\Users\viole\OneDrive\Рабочий стол\EducationalProcces\EducationalProcApi\EducationalProcApi\obj\Debug\net5.0\ref\EducationalProc.dll
