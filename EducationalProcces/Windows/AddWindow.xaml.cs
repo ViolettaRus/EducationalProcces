@@ -11,26 +11,43 @@ namespace EducationalProcces.Windows
     /// </summary>
     public partial class AddWindow : Window
     {
+        /// <summary>
+        /// Обращение к методу "ActivateLink" из класса "APIHelper"
+        /// </summary>
         public AddWindow()
         {
             InitializeComponent();
             APIHelper.ActivateLink();           
         }
-
+        /// <summary>
+        /// Закрытие окна "Главная"
+        /// Открытие окна "Авторизации"
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ExitMainBtn_Click(object sender, RoutedEventArgs e)
         {
             MainWindow mainWindow = new();
             mainWindow.Show();
             this.Close();
         }
-
+        ///Группы
+        /// <summary>
+        /// Открытие панели "Group" 
+        /// Закрытие панели "Main"
+        /// Обновление данных о группах в DataGroup через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void AddGroupBtn_Click(object sender, RoutedEventArgs e)
         {
             Group.Visibility = Visibility.Visible;
             Main.Visibility = Visibility.Hidden;
             LoadDataGroup();
         }
-
+        /// <summary>
+        /// Вывод данных о группах из базы данных в DataGroup через API
+        /// </summary>
         public async void LoadDataGroup()
         {
             ResponseModel<List<Group>> responseGroup = await APIHelper.GetDataAsync<List<Group>>("\"\"", "\"\"", "\"\"", typeof(Group));
@@ -39,7 +56,14 @@ namespace EducationalProcces.Windows
                 DataGroup.ItemsSource = responseGroup.Data;
             }
         }
-
+        /// <summary>
+        /// Добавление данных о группе в базу данных и отображение в DataGroup через API
+        /// Проверка на заполения полей
+        /// Проверка в базе данных на наличие группы
+        /// Обновление данных о группах в DataGroup через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void AddDataGroupBtn_Click(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(NameGroupBox.Text))
@@ -69,7 +93,14 @@ namespace EducationalProcces.Windows
                 }
             }
         }
-
+        /// <summary>
+        /// Изменение данных о группе в базе данных и отображение в DataGroup через API
+        /// Проверка на заполения полей
+        /// Проверка в базе данных на наличие группы
+        /// Обновление данных о группах в DataGroup через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void EditGroupBtn_Click(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(NameGroupBox.Text))
@@ -104,7 +135,12 @@ namespace EducationalProcces.Windows
                 }
             }
         }
-
+        /// <summary>
+        /// Удаление данных о группе из базы данных и отображение в DataGroup через API
+        /// Обновление данных о группах в DataGroup через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void DeleteGroupBtn_Click(object sender, RoutedEventArgs e)
         {
             int idGroup;
@@ -116,21 +152,36 @@ namespace EducationalProcces.Windows
             });
             LoadDataGroup();
         }
-
+        /// <summary>
+        /// Выход из панели "Group" 
+        /// Открытие главной панели "Main"
+        /// Очищение данных в NameGroupBox
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ExitGroupBtn_Click(object sender, RoutedEventArgs e)
         {
             Group.Visibility = Visibility.Hidden;
             Main.Visibility = Visibility.Visible;
             NameGroupBox.Text = " ";
         }
-        //Предмет
+        ///Предметы
+        /// <summary>
+        /// Открытие панели "Subject" 
+        /// Закрытие главной панели "Main"
+        /// Обновление данных о предметах в DataSubject через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void AddSubjectBtn_Click(object sender, RoutedEventArgs e)
         {
             Subject.Visibility = Visibility.Visible;
             Main.Visibility = Visibility.Hidden;
             LoadDataSubject();
         }
-
+        /// <summary>
+        /// Обновление данных о предметах в DataSubject через API
+        /// </summary>
         public async void LoadDataSubject()
         {
             ResponseModel<List<Subject>> responseSubject = await APIHelper.GetDataAsync<List<Subject>>("\"\"", "\"\"", "\"\"", typeof(Subject));
@@ -139,7 +190,14 @@ namespace EducationalProcces.Windows
                 DataSubjcet.ItemsSource = responseSubject.Data;
             }
         }
-
+        /// <summary>
+        /// Добавление данных о предмете в базу данных и отображение в DataSubjcet через API
+        /// Проверка на заполения полей
+        /// Проверка в базе данных на наличие предмета
+        /// Обновление данных о предметах в DataSubjcet через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void AddDataSubjcetBtn_Click(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(NameSubjcetBox.Text))
@@ -169,7 +227,14 @@ namespace EducationalProcces.Windows
                 }
             }
         }
-
+        /// <summary>
+        /// Удаление данных о предмете из базы данных и отображение в DataSubjcet через API
+        /// Проверка на заполения полей
+        /// Проверка в базе данных на наличие предмета
+        /// Обновление данных о предметах в DataSubjcet через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void DeleteSubjcetBtn_Click(object sender, RoutedEventArgs e)
         {
             int idSubject;
@@ -181,7 +246,14 @@ namespace EducationalProcces.Windows
             });
             LoadDataSubject();
         }
-
+        /// <summary>
+        /// Изменение данных о предмете в базе данных и отображение в DataSubjcet через API
+        /// Проверка на заполения полей
+        /// Проверка в базе данных на наличие предмета
+        /// Обновление данных о предметах в DataSubjcet через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void EditSubjcetBtn_Click(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(NameSubjcetBox.Text))
@@ -216,21 +288,36 @@ namespace EducationalProcces.Windows
                 }
             }
         }
-
+        /// <summary>
+        /// Открытие главной панели "Main" 
+        /// Закрытие "Subject"
+        /// Очищение данных в NameSubjcetBox
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ExitSubjcetBtn_Click(object sender, RoutedEventArgs e)
         {
             Subject.Visibility = Visibility.Hidden;
             Main.Visibility = Visibility.Visible;
             NameSubjcetBox.Text = " ";
         }
-        //Преподаватель
+        ///Преподаватель
+        /// <summary>
+        /// Открытие панели "Teacher" 
+        /// Закрытие главной панели "Main"
+        /// Обновление данных о преподавателях в DataTeacher через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void AddTeachertBtn_Click(object sender, RoutedEventArgs e)
         {
             Teacher.Visibility = Visibility.Visible;
             Main.Visibility = Visibility.Hidden;
             LoadDataTeacher();
         }
-
+        /// <summary>
+        /// Обновление данных о преподавателях в DataTeacher через API
+        /// </summary>
         public async void LoadDataTeacher()
         {
             ResponseModel<List<Teacher>> responseTeacher = await APIHelper.GetDataAsync<List<Teacher>>("\"\"", "\"\"", "\"\"", typeof(Teacher));
@@ -239,7 +326,14 @@ namespace EducationalProcces.Windows
                 DataTeacher.ItemsSource = responseTeacher.Data;
             }
         }
-
+        /// <summary>
+        /// Добавление данных о преподавателе в базу данных и отображение в DataTeacher через API
+        /// Проверка на заполения полей
+        /// Проверка в базе данных на наличие преподавателя
+        /// Обновление данных о преподавателях в DataTeacher через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void AddDataTeacherBtn_Click(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(FirstNameTeacherBox.Text + NameTeacherBox.Text + MidlleNameTeacherBox.Text))
@@ -270,7 +364,14 @@ namespace EducationalProcces.Windows
                 }
             }
         }
-
+        /// <summary>
+        /// Изменение данных о преподавателе в базе данных и отображение в DataTeacher через API
+        /// Проверка на заполения полей
+        /// Проверка в базе данных на наличие преподавателя
+        /// Обновление данных о преподавателях в DataTeacher через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void EditTeacherBtn_Click(object sender, RoutedEventArgs e)
         {
             if (string.IsNullOrEmpty(FirstNameTeacherBox.Text + NameTeacherBox.Text + MidlleNameTeacherBox.Text))
@@ -306,7 +407,14 @@ namespace EducationalProcces.Windows
                 }
             }
         }
-
+        /// <summary>
+        /// Удаление данных о преподавателе из базы данных и отображение в DataTeacher через API
+        /// Проверка на заполения полей
+        /// Проверка в базе данных на наличие преподавателя
+        /// Обновление данных о преподавателях в DataTeacher через API
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private async void DeleteTeacherBtn_Click(object sender, RoutedEventArgs e)
         {
             int idTeacher;
@@ -318,7 +426,16 @@ namespace EducationalProcces.Windows
             });
             LoadDataTeacher();
         }
-
+        /// <summary>
+        /// Выход из панели "Teacher"
+        /// Открытие главной панели "Main"
+        /// Очищение данных в NameTeacherBox
+        /// Очищение данных в MidlleNameTeacherBox
+        /// Очищение данных в FirstNameTeacherBox
+        /// Очищение данных в PhoneTeacherBox
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ExitTeacherBtn_Click(object sender, RoutedEventArgs e)
         {
             Teacher.Visibility = Visibility.Hidden;
@@ -328,39 +445,16 @@ namespace EducationalProcces.Windows
             FirstNameTeacherBox.Text = " ";
             PhoneTeacherBox.Text = " ";
         }
-
+        /// <summary>
+        /// Открытие метода "excel" из класса "Excel"
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void ExcelBtn_Click(object sender, RoutedEventArgs e)
         {
-            //Объявляем приложение
-            Excel.Application ex = new Excel.Application();
-            //Отобразить Excel
-            ex.Visible = true;
-            //Количество листов в рабочей книге
-            ex.SheetsInNewWorkbook = 2;
-            //Добавить рабочую книгу
-            Excel.Workbook workBook = ex.Workbooks.Add(Type.Missing);
-            //Отключить отображение окон с сообщениями
-            ex.DisplayAlerts = false;
-            //Получаем первый лист документа (счет начинается с 1)
-            Excel.Worksheet sheet = (Excel.Worksheet)ex.Worksheets.get_Item(1);
-            //Название листа (вкладки снизу)
-            sheet.Name = "Расписание";
-            //Пример заполнения ячеек
-            for (int i = 1; i <= 9; i++)
-            {
-                for (int j = 1; j < 9; j++)
-                    sheet.Cells[i, j] = String.Format("Boom {0} {1}", i, j);
-            }
-            ////Захватываем диапазон ячеек
-            //Excel.Range range1 = sheet.get_Range(sheet.Cells[1, 1], sheet.Cells[9, 9]);
-            ////Шрифт для диапазона
-            //range1.Cells.Font.Name = "Tahoma";
-            ////Размер шрифта для диапазона
-            //range1.Cells.Font.Size = 10;
-            ////Захватываем другой диапазон ячеек
-            //Excel.Range range2 = sheet.get_Range(sheet.Cells[1, 1], sheet.Cells[9, 2]);
-            //range2.Cells.Font.Name = "Times New Roman";
-            
+            Excel excel = new Excel();
+            excel.excel();
         }
+
     }
 }

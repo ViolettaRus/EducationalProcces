@@ -9,12 +9,20 @@ namespace EducationalProcces
     /// </summary>
     public partial class MainWindow : Window
     {
+        /// <summary>
+        /// Обращение к методу "ActivateLink" из класса "APIHelper"
+        /// </summary>
         public MainWindow()
         {
             APIHelper.ActivateLink();
             InitializeComponent();
         }
-
+        /// <summary>
+        /// Проверка на заполение полей
+        /// Обращение к методу "Auth"
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void AuthBtn_Click(object sender, RoutedEventArgs e)
         {
 
@@ -29,7 +37,10 @@ namespace EducationalProcces
             }
 
         }
-
+        /// <summary>
+        /// Проверка на правильность введенных данных в Login и Password с данными в базе данных
+        /// Переход на окно "Главная"
+        /// </summary>
         public async void Auth()
         {
             User user = new User();

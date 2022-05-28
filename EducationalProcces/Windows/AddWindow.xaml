@@ -57,22 +57,25 @@
                 </Image>
 
                 <Button x:Name="AddGroupBtn" Style="{StaticResource StandartBtn}"
-                    Width="180" Height="23" Click="AddGroupBtn_Click" Grid.Column="1" Margin="43,23,42,80" Grid.Row="1" TextBlock.FontFamily="Times New Roman">Добавить группу
+                   Width="190" Height="25" Click="AddGroupBtn_Click" 
+                        Grid.Column="1" Margin="37,23,38,78" Grid.Row="1" TextBlock.FontFamily="Times New Roman">Добавить группу
                 </Button>
 
                 <Button x:Name="AddSubjectBtn" Style="{StaticResource StandartBtn}"
-                    Width="180" Height="23" Click="AddSubjectBtn_Click" 
-                    Grid.Column="1" Margin="43,51,42,52" Grid.Row="1" TextBlock.FontFamily="Times New Roman">Добавить предмет
+                    Width="190" Height="25" Click="AddSubjectBtn_Click" 
+                    Grid.Column="1" Margin="38,52,38,49" Grid.Row="1" TextBlock.FontFamily="Times New Roman">Добавить предмет
                 </Button>
 
                 <Button x:Name="AddTeachertBtn" Style="{StaticResource StandartBtn}"
-                    Width="180" Height="23" Click="AddTeachertBtn_Click"
-                     Grid.Column="1" Margin="43,79,42,24" Grid.Row="1" TextBlock.FontFamily="Times New Roman">Добавить преподавтеля
+                    Width="190" Height="25" Click="AddTeachertBtn_Click"
+                     Grid.Column="1" Margin="38,80,38,21" Grid.Row="1" TextBlock.FontFamily="Times New Roman">Добавить преподавателя
                 </Button>
-                
+
                 <Button x:Name="ExcelBtn" Style="{StaticResource StandartBtn}"
-                    Width="180" Height="23" Click="ExcelBtn_Click"
-                    Grid.Column="1" Margin="44,109,42,120" Grid.Row="1" TextBlock.FontFamily="Times New Roman" Content="Добавить преподавтеля" Grid.RowSpan="2"/>
+                    Width="190" Height="25" Click="ExcelBtn_Click"
+                    Grid.Column="1" Margin="38,108,38,119" Grid.Row="1" TextBlock.FontFamily="Times New Roman" Grid.RowSpan="2">Сформировать Excel файл
+
+                </Button>
 
                 <Button Style="{StaticResource StandartBtn}" x:Name="ExitMainBtn" 
                         Margin="26,0,0,103"
@@ -80,7 +83,7 @@
                         Width="80" Grid.Column="2"
                         Click="ExitMainBtn_Click" TextBlock.FontFamily="Times New Roman" >Выйти
                 </Button>
-                </Grid>
+            </Grid>
         </Border>
 
         <Border 

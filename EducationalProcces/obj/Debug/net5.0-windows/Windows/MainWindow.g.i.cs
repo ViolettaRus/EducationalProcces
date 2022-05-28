@@ -76,7 +76,7 @@ namespace EducationalProcces {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/EducationalProcces;V1.0.0.0;component/windows/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/EducationalProcces;component/windows/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Windows\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
