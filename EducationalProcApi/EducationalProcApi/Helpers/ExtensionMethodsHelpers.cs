@@ -2,9 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
 using System.Reflection;
-using System.Threading.Tasks;
 
 namespace EducationalProc
 {
@@ -15,13 +13,23 @@ namespace EducationalProc
             public string ColumnName;
             public string ColumnValue;
         }
-
+        /// <summary>
+        /// Метод передачи значения параметра
+        /// </summary>
+        /// <param name="parameter">переменная параметра</param>
+        /// <param name="value">переменная значения</param>
+        /// <returns></returns>
         public static SqlParameter WithValue(this SqlParameter parameter, object value)
         {
             parameter.Value = value;
             return parameter;
         }
-
+        /// <summary>
+        /// Метод вывода результата
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="result">переменная результата</param>
+        /// <returns></returns>
         public static T ParseResult<T>(this ResultModel result)
         {
             List<ResultItem> resultItems = new();
@@ -72,4 +80,3 @@ namespace EducationalProc
         }
     }
 }
-

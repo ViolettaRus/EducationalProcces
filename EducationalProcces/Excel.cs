@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Excel = Microsoft.Office.Interop.Excel;
 
 namespace EducationalProcces
 {
@@ -24,7 +20,7 @@ namespace EducationalProcces
         {
             Microsoft.Office.Interop.Excel.Application ex = new Microsoft.Office.Interop.Excel.Application();
             ex.Visible = true;
-            ex.Workbooks.Open(@"C:\EducationalProcces\EducationalProcces\Расписание.xlsx", Type.Missing, Type.Missing, Type.Missing,
+            ex.Workbooks.Open(@"C:\Расписание.xlsx", Type.Missing, Type.Missing, Type.Missing,
                 Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing,
                 Type.Missing, Type.Missing, Type.Missing, Type.Missing);
             ex.DisplayAlerts = false;
@@ -4765,6 +4761,9 @@ namespace EducationalProcces
 
                 }
             }
+            ex.Application.ActiveWorkbook.SaveAs(@"C:\Расписание1.xlsx", Type.Missing, Type.Missing, Type.Missing, Type.Missing,
+                        Type.Missing, Microsoft.Office.Interop.Excel.XlSaveAsAccessMode.xlNoChange, Type.Missing, Type.Missing,
+                        Type.Missing, Type.Missing, Type.Missing);
         }
     }
 }

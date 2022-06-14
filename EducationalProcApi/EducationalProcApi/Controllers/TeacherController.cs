@@ -13,6 +13,13 @@ namespace EducationalProc
     [ApiController]
     public class TeacherController : ControllerBase
     {
+        /// <summary>
+        /// Метод получения данных
+        /// </summary>
+        /// <param name="whereColumnName">переменная для передачи данных об имени столбца</param>
+        /// <param name="whereValue">переменная для передачи данных об значении</param>
+        /// <param name="orderByColumnName">переменная для передачи порядка по имени столбца</param>
+        /// <returns></returns>
         [HttpGet("{whereColumnName}/{whereValue}/{orderByColumnName}")] 
         public async Task<ActionResult<Teacher>> GetTeacher(string whereColumnName, string whereValue, string orderByColumnName)
         {
@@ -40,7 +47,12 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод изменения данных о преподавателе
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_Teacher</param>
+        /// <param name="Teacher">переменная для обращения к модели Teacher</param>
+        /// <returns></returns>
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTeacher(int id, Teacher Teacher)
         {
@@ -68,7 +80,11 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод добавление данных о преподавателе
+        /// </summary>
+        /// <param name="Teacher">переменная для обращения к модели Teacher</param>
+        /// <returns></returns>
         [HttpPost]
         public async Task<ActionResult<Teacher>> PostTeacher(Teacher Teacher)
         {
@@ -98,7 +114,11 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод для удаления данных о преподавателе
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_Teacher</param>
+        /// <returns></returns>
         [HttpDelete("{id}")] //+
         public async Task<IActionResult> DeleteTeacher(int id)
         {
@@ -120,6 +140,5 @@ namespace EducationalProc
                 }
             });
         }
-
     }
 }

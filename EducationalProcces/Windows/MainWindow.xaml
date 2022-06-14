@@ -55,10 +55,9 @@
                 <Image Source="/Pictures/LogoMpt.png" Margin="13,-8,13,17" Height="100" Width="100" Grid.Column="1"/>
 
                 <Button Style="{StaticResource StandartBtn}" x:Name="AuthBtn" 
-                        Margin="34,10,42,76"
-                        Height="23"
+                        Margin="34,0,42,76"
                         Width="50" Grid.Column="1" Grid.Row="2"
-                        Click="AuthBtn_Click" TextBlock.FontFamily="Times New Roman" >Войти
+                        Click="AuthBtn_Click" TextBlock.FontFamily="Times New Roman" Height="23" VerticalAlignment="Bottom" >Войти
                 </Button>
 
                 <TextBox 

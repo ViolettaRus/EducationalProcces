@@ -13,6 +13,13 @@ namespace EducationalProc
     [ApiController]
     public class SubjectController : ControllerBase
     {
+        /// <summary>
+        /// Метод получения данных
+        /// </summary>
+        /// <param name="whereColumnName">переменная для передачи данных об имени столбца</param>
+        /// <param name="whereValue">переменная для передачи данных об значении</param>
+        /// <param name="orderByColumnName">переменная для передачи порядка по имени столбца</param>
+        /// <returns></returns>
         [HttpGet("{whereColumnName}/{whereValue}/{orderByColumnName}")]
         public async Task<ActionResult<Subject>> GetSubject(string whereColumnName, string whereValue, string orderByColumnName)
         {
@@ -40,7 +47,12 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод изменения данных о предметах
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_Subject</param>
+        /// <param name="Subject">пременная для обращения к модулю Subject</param>
+        /// <returns></returns>
         [HttpPut("{id}")]
         public async Task<IActionResult> PutSubject(int id, Subject Subject)
         {
@@ -67,7 +79,11 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод добавления данных о предметах
+        /// </summary>
+        /// <param name="Subject">пременная для обращения к модулю Subject</param>
+        /// <returns></returns>
         [HttpPost]
         public async Task<ActionResult<Subject>> PostSubject(Subject Subject)
         {
@@ -96,7 +112,11 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод удаления данных о предметах
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_Subject</param>
+        /// <returns></returns>
         [HttpDelete("{id}")] //+
         public async Task<IActionResult> DeleteSubject(int id)
         {

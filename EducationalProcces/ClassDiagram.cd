@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Диагркмма классов &quot;EducationalProcces&quot;">
+    <Position X="9.041" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="EducationalProcces.APIHelper">
+    <Position X="13.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAQAEAABAAAAAACCAAAAAAAAAAAAEAIAgA=</HashCode>
+      <FileName>Helpers\ApiHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.BaseModel">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Models\BaseModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.Group">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.ResponseModel&lt;T&gt;">
+    <Position X="15.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAABAAIAAAAAAAAAA=</HashCode>
+      <FileName>Models\ResponseModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.Role">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.Subject">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Models\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.Teacher">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAABA=</HashCode>
+      <FileName>Models\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.User">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAEAAAAAAAAAAAAAACAAAQKAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Windows\MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EducationalProcces.App">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.Excel">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Excel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EducationalProcces.Windows.AddWindow" BaseTypeListCollapsed="true">
+    <Position X="11.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAYBAAAAAAgIAEACIBAkAAAAAAAAIAEQAGAAMEAA=</HashCode>
+      <FileName>Windows\AddWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

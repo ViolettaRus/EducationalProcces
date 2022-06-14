@@ -1,6 +1,7 @@
 ﻿using EducationalProcces.Windows;
 using System.Collections.Generic;
 using System.Windows;
+using System;
 
 namespace EducationalProcces
 {
@@ -57,6 +58,14 @@ namespace EducationalProcces
                         AddWindow addWindow = new();
                         addWindow.Show();
                         this.Close();
+                    }
+                    else if (user.Role.ID_Role == 2)
+                    {
+                        Microsoft.Office.Interop.Excel.Application ex = new Microsoft.Office.Interop.Excel.Application();
+                        ex.Visible = true;
+                        ex.Workbooks.Open(@"C:\Расписание1.xlsx", Type.Missing, Type.Missing, Type.Missing,
+                            Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing,
+                            Type.Missing, Type.Missing, Type.Missing, Type.Missing);
                     }
                 }
                 else

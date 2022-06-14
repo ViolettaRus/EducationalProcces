@@ -13,6 +13,13 @@ namespace EducationalProc
     [ApiController]
     public class GroupController : ControllerBase
     {
+        /// <summary>
+        /// Метод получения данных
+        /// </summary>
+        /// <param name="whereColumnName">переменная для передачи данных об имени столбца</param>
+        /// <param name="whereValue">переменная для передачи данных об значении</param>
+        /// <param name="orderByColumnName">переменная для передачи порядка по имени столбца</param>
+        /// <returns></returns>
         [HttpGet("{whereColumnName}/{whereValue}/{orderByColumnName}")]
         public async Task<ActionResult<Group>> GetGroup(string whereColumnName, string whereValue, string orderByColumnName)
         {
@@ -40,7 +47,12 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Мето изменения данных о группе
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_Group</param>
+        /// <param name="Group">переменная для обращения к модели Group</param>
+        /// <returns></returns>
         [HttpPut("{id}")]
         public async Task<IActionResult> PutGroup(int id, Group Group)
         {
@@ -67,7 +79,11 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод добавлния данных о группе
+        /// </summary>
+        /// <param name="Group">пременная для обращения к модели Group</param>
+        /// <returns></returns>
         [HttpPost]
         public async Task<ActionResult<Group>> PostGroup(Group Group)
         {
@@ -96,7 +112,11 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод удаления группы
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_Group</param>
+        /// <returns></returns>
         [HttpDelete("{id}")] //+
         public async Task<IActionResult> DeleteGroup(int id)
         {

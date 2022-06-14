@@ -13,6 +13,13 @@ namespace EducationalProc
     [ApiController]
     public class UserController : ControllerBase
     {
+        /// <summary>
+        /// Метод получения данных
+        /// </summary>
+        /// <param name="whereColumnName">переменная для передачи данных об имени столбца</param>
+        /// <param name="whereValue">переменная для передачи данных об значении</param>
+        /// <param name="orderByColumnName">переменная для передачи порядка по имени столбца</param>
+        /// <returns></returns>
         [HttpGet("{whereColumnName}/{whereValue}/{orderByColumnName}")] //+ 
         public async Task<ActionResult<User>> GetUsers(string whereColumnName, string whereValue, string orderByColumnName)
         {
@@ -40,8 +47,11 @@ namespace EducationalProc
                 }
             });
         }
-
-
+        /// <summary>
+        /// Метод получения данных 
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_User</param>
+        /// <returns></returns>
         [HttpGet("{id}")] //+
         public async Task<ActionResult<User>> GetUser(int id)
         {
@@ -59,7 +69,12 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод проверки логина пользователя
+        /// </summary>
+        /// <param name="login">переменная для передачи данных логина</param>
+        /// <param name="password">переменная для передачи данных пароля</param>
+        /// <returns></returns>
         [HttpGet("{login}/{password}")] 
         public async Task<ActionResult<User>> GetLoggedUser(string login, string password)
         {
@@ -84,7 +99,12 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод изменения данных о пользователе
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_User</param>
+        /// <param name="users">переменная для обращения к модели  User</param>
+        /// <returns></returns>
         [HttpPut("{id}")] 
         public async Task<IActionResult> PutUser(int id, User users)
         {
@@ -114,7 +134,11 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод добавления данных о пользователе
+        /// </summary>
+        /// <param name="users">пременная для обращения к моделе User</param>
+        /// <returns></returns>
         [HttpPost] 
         public async Task<ActionResult<User>> PostUser(User users)
         {
@@ -144,7 +168,11 @@ namespace EducationalProc
                 }
             });
         }
-
+        /// <summary>
+        /// Метод удаления данных о пользователе
+        /// </summary>
+        /// <param name="id">переменная для передачи данных из ID_User</param>
+        /// <returns></returns>
         [HttpDelete("{id}")] //+
         public async Task<IActionResult> DeleteUser(int id)
         {

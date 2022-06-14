@@ -9,6 +9,10 @@ namespace EducationalProc
     [ApiController]
     public class RoleController : ControllerBase
     {
+        /// <summary>
+        /// Метод передачи данных
+        /// </summary>
+        /// <returns></returns>
         [HttpGet] //+
         public async Task<ActionResult<Role>> GetRoles()
         {

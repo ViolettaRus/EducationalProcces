@@ -1,40 +1,41 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace EducationalProc
 {
     public class Startup
     {
+        /// <summary>
+        /// Метод обращения к конфигарации
+        /// </summary>
+        /// <param name="configuration">переменная конфигурации</param>
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
-
         public IConfiguration Configuration { get; }
-
-        // This method gets called by the runtime. Use this method to add services to the container.
+        /// <summary>
+        /// Метод названия программы и ее версии
+        /// </summary>
+        /// <param name="services">переменная сервиса</param>
         public void ConfigureServices(IServiceCollection services)
         {
-
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "EducationalProc", Version = "v1" });
             });
         }
-
-        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        /// <summary>
+        /// Метод создание swagger
+        /// Обращение к json файлу
+        /// </summary>
+        /// <param name="app"></param>
+        /// <param name="env"></param>
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())

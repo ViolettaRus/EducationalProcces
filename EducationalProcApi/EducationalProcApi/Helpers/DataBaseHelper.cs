@@ -22,9 +22,10 @@ namespace EducationalProc
         {
 
         }
-
-
-
+        /// <summary>
+        /// Метод полключения к локальной базе данных
+        /// </summary>
+        /// <param name="optionsBuilder"></param>
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) =>
             optionsBuilder.UseSqlServer("Data Source=DESKTOP-9F8J8EP\\SQLRUS;Initial Catalog=EducationalProcces;User ID=sa;Password=12345678;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
 
@@ -37,4 +38,3 @@ namespace EducationalProc
         }
     }
 }
-
